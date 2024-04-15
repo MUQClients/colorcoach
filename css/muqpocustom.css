@@ -30,7 +30,7 @@ body{
   color: rgba(148, 119, 152, 1);
 }
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover { 
-  color: rgba(15, 1, 1, 0.925);
+  color: rgba(152, 119, 123, 1);
   text-shadow: 0.3px 0.3px #1a0000;
 }
 .navbar-toggler-icon{
@@ -59,6 +59,10 @@ body{
 .container a{
   color: #fff;
   font-weight: bold;
+}
+.btn-secondary{
+  border-color: rgba(152, 119, 123, 1);
+  background-color: rgba(148, 119, 152, 1);
 }
 /* Copyright 2024 MUQPO.be - KJR. */
 /* Website as a service by MUQPO.be */
