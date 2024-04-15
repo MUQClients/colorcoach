@@ -34,10 +34,10 @@ body{
   text-shadow: 0.3px 0.3px #1a0000;
 }
 .navbar-toggler-icon{
-  background-color: rgba(5, 5, 5, 0.925);
+  background-color: rgba(148, 119, 152, 1);
 }
 .navbar-toggler{
-  background-color: rgba(5, 5, 5, 0.925);
+  background-color: rgba(148, 119, 152, 1);
 }
 .carousel-caption{
   color: #fff;
