@@ -19,7 +19,7 @@ body{
 }
 /* KJR: achtergrond header */
 .bg-dark{
-  background-color: rgb(255, 255, 255)!important;
+  background-color: #947798;
 }
 /* KJR: achtergrond footer */
 .py-5{
