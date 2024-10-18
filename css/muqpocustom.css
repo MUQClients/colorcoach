@@ -27,10 +27,10 @@ body{
 }
 /* KJR: kleur menuitems */
 .navbar-dark .navbar-nav .nav-link{
-  color: rgba(148, 119, 152, 1);
+  color: rgba(253, 232, 200, 1);
 }
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover { 
-  color: rgba(152, 119, 123, 1);
+  color: rgba(148, 119, 152, 1);
   text-shadow: 0.3px 0.3px #1a0000;
 }
 .navbar-toggler-icon{
