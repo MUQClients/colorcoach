@@ -65,12 +65,12 @@ body{
 }
 .btn-secondary{
   border-color: rgba(152, 119, 123, 1);
-  background-color: rgba(148, 119, 152, 1);
+  background-color: rgba(123, 152, 119, 1);
 }
 .btn-secondary:hover
 {
   border-color: rgba(152, 119, 123, 1);
-  background-color: rgba(123, 152, 119, 1)
+  background-color: rgba(148, 119, 152, 1);
 }
 /* Copyright 2024 MUQPO.be - KJR. */
 /* Website as a service by MUQPO.be */
