@@ -19,11 +19,11 @@ body{
 }
 /* KJR: achtergrond header */
 .bg-dark{
-  background-color: #947798;
+  background-color: rgba(127, 17, 224, 1);
 }
 /* KJR: achtergrond footer */
 .py-5{
-  background-color: #947798;
+  background-color: rgba(127, 17, 224, 1);
 }
 /* KJR: kleur menuitems */
 .navbar-dark .navbar-nav .nav-link{
