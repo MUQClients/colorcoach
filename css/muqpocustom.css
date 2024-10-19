@@ -60,10 +60,10 @@ body{
   color: #fff;
 }
 .colorcoach a{
-  color: #98777b;
+  color: #98777b !important;
 }
 .colorcoach{
-  color: #98777b;
+  color: #98777b !important;
 }
 .container a{
   color: #fff;
